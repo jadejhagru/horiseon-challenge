@@ -7,16 +7,16 @@ Hello Horiseon Team!
 
     Cheers!
     Jade Jhagru
-
-> I changed the webiste <title> to "Horiseon".
-> Some meta tag information was missed, so I added that for proper accessability. 
-> Cleaned up your <h1> tag. I personally didn't find it necessary to have a <span> in the title as I thought it made it look unprofessional having "Horiseon" in two dfferent shades of white.
-> Cleaned up code slightly with indentation throughout "html.index" and "style.css".
-> Added new <!--comments--> throughout the "html.index" file. 
-> <Class="hero"> was changed to <class="meeting"> for less confusion.
-> Added necessary <alt> tags for accessability.
-> Seqences of <header> tags weren't correct so <h2> in the <footer> tag was changed to <h4>
-> Deleed the Develop" folder so website is more accessable for other developers.
+    
+I changed the webiste <title> to "Horiseon".
+Some meta tag information was missed, so I added that for proper accessability. 
+Cleaned up your <h1> tag. I personally didn't find it necessary to have a <span> in the title as I thought it made it look unprofessional having "Horiseon" in two dfferent shades of white.
+Cleaned up code slightly with indentation throughout "html.index" and "style.css".
+Added new <!--comments--> throughout the "html.index" file. 
+<Class="hero"> was changed to <class="meeting"> for less confusion.
+Added necessary <alt> tags for accessability.
+Seqences of <header> tags weren't correct so <h2> in the <footer> tag was changed to <h4>
+Deleed the Develop" folder so website is more accessable for other developers.
 
 URL as requested: https://jadejhagru.github.io/horiseon-challenge/
 Github Repository: https://github.com/jadejhagru/horiseon-challenge
