@@ -2,12 +2,11 @@
 
 Hello Horiseon Team!
 
-    It has been a pleasure to be working with you today and I would like to thank you again for giving me this exciting opportunity!I have found small errors in your code and have fixed them as best as I see fit to meet all of your accessbility and acceptance criteria. Below you will find a list of things I have corrected and simplified followed by a URL to the new website.
+    It has been a pleasure to be working with you today and I would like to thank you again for giving me this exciting opportunity!
+    I have found small errors in your code and have fixed them as best as I see fit to meet all of your accessbility and acceptance criteria. Below you will find a list of things I have corrected and simplified followed by a URL to the new website.
 
     Cheers!
     Jade Jhagru
-
-***
 
 > I changed the webiste <title> to "Horiseon".
 > Some meta tag information was missed, so I added that for proper accessability. 
@@ -21,4 +20,6 @@ Hello Horiseon Team!
 
 URL as requested: https://jadejhagru.github.io/horiseon-challenge/
 Github Repository: https://github.com/jadejhagru/horiseon-challenge
+Screenshots: (../desktop/horiseon-challenge/image001.png)
+
 
