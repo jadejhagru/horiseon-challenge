@@ -20,10 +20,6 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
-    color: #d9dcd6;
-}
-
 header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,7 +46,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.meeting {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
