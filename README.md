@@ -20,6 +20,5 @@ Hello Horiseon Team!
 
 URL as requested: https://jadejhagru.github.io/horiseon-challenge/
 Github Repository: https://github.com/jadejhagru/horiseon-challenge
-Screenshots: (../desktop/horiseon-challenge/image001.png)
 
 
