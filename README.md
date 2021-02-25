@@ -17,8 +17,13 @@ Hello Horiseon Team!
     Added necessary <alt> tags for accessability.
     Seqences of <header> tags weren't correct so <h2> in the <footer> tag was changed to <h4>
     Deleted the "Develop" folder so website is more accessable for other developers.
+    Added /* comments */ throughout "style.css" file.
+    Combined css selectors for proper organization throughout the code.
 
 URL as requested: https://jadejhagru.github.io/horiseon-challenge/
 Github Repository: https://github.com/jadejhagru/horiseon-challenge
+![screenshot]("../horiseon-challenge/screenshot1.png")
+
+
 
 
